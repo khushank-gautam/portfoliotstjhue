@@ -1,0 +1,108 @@
+@charset "utf-8";
+.container .row .col-xxl-12.navarea {
+    height: 60px;
+    border: thin solid #000000;
+    background-color: #F5BDBE;
+}
+.container .row .col-xxl-6.conl {
+    border: thin solid #000000;
+    height: 400px;
+    background-color: #0B2D72;
+}
+.row .col-xxl-6.conl h2 {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+}
+.row .col-xxl-6.conl p {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+.cntr   {
+    text-align: center;
+}
+.col-xxl-6.conl .cntr .btn.btn-light {
+    font-weight: bold;
+    background-color: #F6E7BC;
+}
+.col-xxl-6.conl h2 span {
+    color: #FF0004;
+}
+.container .row .col-xxl-12.conmain {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+.row .col-xxl-12.conmain h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    color: #0D42AD;
+}
+
+.row .col-xxl-6.conl .bdr {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: thin solid #FFFFFF;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+.spc {
+    margin-bottom: 20px;
+}
+.container .row .col-xxl-12.porthead {
+    background-color: #F6E7BC;
+}
+.row .col-xxl-12.porthead h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #04389F;
+}
+.container .row .col-xxl-4.logoimg {
+    background-color: #F6E7BC;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container .row .col-xxl-12.portbutton {
+    background-color: #F6E7BC;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.col-xxl-12.portbutton .cntr .btn.btn-light {
+    background-color: #0B2D72;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.container .row .col-xxl-12.ftr {
+    background-color: #0B2D72;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.row .col-xxl-12.ftr p {
+    color: #FFFFFF;
+    text-align: center;
+}
+#navbarSupportedContent1 .navbar-nav.ms-auto .nav-item {
+    font-weight: bold;
+}
+
+
+
+@media screen{
+}

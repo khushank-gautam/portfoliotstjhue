@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Logo Design Service</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap-5.3.8.css" rel="stylesheet">
+<link href="../mystyle.css" rel="stylesheet" type="text/css">
+	    <link rel="stylesheet" href="../dist/css/lightbox.min.css">
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  </head>
+  <body>
+  	<!-- body code goes here -->
+	   	<!-- Header area start -->
+      <div class="container">
+  <div class="row">
+          <div class="col-xxl-12 mnu">
+		    <nav class="navbar navbar-expand-lg navbar-light"> <a class="navbar-brand" href="#"> <img src="../images/logo.jpg" width="116" height="94" alt=""/></a>
+		      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+				
+				
+		      <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+		        <ul class="navbar-nav ms-auto">
+		          <li class="nav-item active"> <a class="nav-link" href="index.html">Home <span class="visually-hidden">(current)</span></a> </li>
+					
+		          <li class="nav-item"> <a class="nav-link" href="aboutus.html">Aboutus</a> </li>
+					
+					 <li class="nav-item"> <a class="nav-link" href="#">Graphics Design</a> </li>
+					 <li class="nav-item"> <a class="nav-link" href="#">Video Editing</a> </li>
+					 <li class="nav-item"> <a class="nav-link" href="#">Portfolio</a> </li>
+					 <li class="nav-item"> <a class="nav-link" href="contact.html">Contact</a> </li>
+			
+		          
+	            </ul>
+	
+	          </div>
+	        </nav>
+          </div>
+      </div>
+  <!-- Header area end -->
+	  
+	  <!-- Banner area start --><!-- TemplateBeginEditable name="My content Area" -->
+	  <div class="container">
+	    <div class="row">
+	      <div class="col-xxl-6 conl">
+	        <h2>Logo Design Only @ <span>Rs.3000</span></h2>
+	        <p>Receive 5 unique, scalable logo designs in an open PDF + HD quality files, delivered within 3 days. Includes 3 free revisions and unlimited paid revisions if needed.</p>
+	        <div class="cntr">
+	          <button type="button" class="btn btn-light">Book Appointment</button>
+            </div>
+          </div>
+	      <div class="col-xxl-6 conl">
+	        <div class="bdr">
+	          <form>
+	            <input type="text" required="required" placeholder="Your Name" class="form-control spc">
+	            <input type="email" required="required" placeholder="Your Email" class="form-control spc">
+	            <input type="tel" required="required" placeholder="Your Phone" class="form-control spc">
+	            <textarea class="form-control spc">Your Message</textarea>
+	            <div class="cntr">
+	              <button type="button" class="btn btn-light">Book Appointment</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Banner area end -->
+      <!-- content area start -->
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-12 conmain">
+            <h2>Best Logo Designers in Delhi</h2>
+            <p>Our creative logo designing company in Delhi has highly innovative logo designers who grasp the pulse of the dynamic market of Delhi. We understand that your brand is not just a name; it's an experience waiting to be unveiled. In a city buzzing with energy, your logo needs to do more than just stand out; it needs to captivate, inspire, and leave an enduring mark on the canvas of Delhi's bustling landscape. </p>
+            <p>Our team of incredibly gifted and skilled logo designers in Delhi are dedicated to crafting excellent logos for its clients. By utilising the latest design tools and methods, we create logos that are aesthetically beautiful, memorable, and easy to recognise. No matter if the business is a start-up or an established one, we have the know-how to design a logo that reflects the distinctive essence of the brand.</p>
+            <div class="cntr"><img src="../images/cta.jpg" width="359" height="81" alt=""/></div>
+          </div>
+        </div>
+      </div>
+      <!-- Banner area end -->
+      <!-- Portfolio Heading Start -->
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-12 porthead">
+            <h2>Logo Design Portfolio</h2>
+          </div>
+        </div>
+      </div>
+      <!-- Portfolio Heading end -->
+      <!-- Portfolio Logo Start -->
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-4 logoimg"> <a class="example-image-link" href="file:///D|/Gopal Krishna/Session 26/images/logo-c1.jpg" data-lightbox="example-set" data-title="My very first logo appriciated by client."> <img src="file:///D|/Gopal Krishna/Session 26/images/logo-c1.jpg" width="347" height="305" alt=""/> </a> </div>
+          <div class="col-xxl-4 logoimg"> <a class="example-image-link" href="../images/logonew.jpg" data-lightbox="example-set" data-title="My very first logo appriciated by client."> <img src="../images/logonew.jpg" width="347" height="305" alt=""/> </a> </div>
+          <div class="col-xxl-4 logoimg"><img src="file:///D|/Gopal Krishna/Session 26/images/logo-c1.jpg" width="347" height="305" alt=""/></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-4 logoimg"> <img src="file:///D|/Gopal Krishna/Session 26/images/logo-c2.jpg" width="348" height="297" alt=""/></div>
+          <div class="col-xxl-4 logoimg"> <img src="file:///D|/Gopal Krishna/Session 26/images/logo-c2.jpg" width="348" height="297" alt=""/></div>
+          <div class="col-xxl-4 logoimg"> <img src="file:///D|/Gopal Krishna/Session 26/images/logo-c2.jpg" width="348" height="297" alt=""/></div>
+        </div>
+      </div>
+      <!-- Portfolio Logo ends -->
+      <!-- PortfolioButton Start -->
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-12 portbutton">
+            <div class="cntr">
+              <button type="button" class="btn btn-light">Book Appointment</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- PortfolioButton end -->
+		   <!-- TemplateEndEditable --><!-- Footer end -->	  
+      <!-- Footer Start -->
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-12 ftr">
+            <p>© 2026 ABCD, All Rights Reserved</p>
+          </div>
+        </div>
+      </div>
+	 
+	  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../js/popper-2.11.8.min.js"></script> 
+	<script src="../js/bootstrap-5.3.8.js"></script>
+		  <script src="../dist/js/lightbox-plus-jquery.min.js"></script>
+  </body>
+</html>
